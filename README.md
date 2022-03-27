@@ -1,5 +1,5 @@
 - 🐍 Hi, I’m @marchesi-m, and this is my GitHub! 
-- 👀 I’m interested in game and web development with Python, as well as making small applications with TKinter
+- 👀 I’m interested in making games and web development with Python, as well as making applications with TKinter
 - 📫 If you have any questions here's how you can reach me - marti.marchesi@gmail.com
 
 <!---
