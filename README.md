@@ -1,6 +1,7 @@
-- 🐍 Hi, I’m @marchesi-m, and this is my GitHub! 
-- 👀 I’m interested in making games and web development with Python, as well as making applications with TKinter
-- 📫 If you have any questions here's how you can reach me - marti.marchesi@gmail.com
+- 🐍 Hi, I’m @marchesi-m, and this is my GitHub!
+- ❤ I code in Python and enjoy developing small applications with Tkinter
+- 👓 I am currently learning web development with Django
+- 📫 If you have any questions here's how you can reach me - mario.tazza@gmail.com
 
 <!---
 marchesi-m/marchesi-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
