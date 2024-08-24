@@ -1,6 +1,6 @@
 - 🐍 Hi, I’m @marchesi-m, and this is my GitHub!
-- ❤ I code in Python and enjoy developing small applications with Tkinter
-- 👓 I am a Python Software Engineer working within the space telecommunication industry
+- ❤ I code in Python and enjoy developing web applications
+- 👓 I am a Full-Stack Engineer working in the finance sector
 - 📫 If you have any questions here's how you can reach me - mario.tazza@gmail.com
 
 <!---
